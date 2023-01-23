@@ -1,0 +1,44 @@
+[
+	{
+		"id" : 1,
+		"name" : "Brandon",
+		"DepartmentID" : "Sales",
+		"DepartmentIDNum" : "1",
+		"RegistrationDate" : "2015-12-17"
+	},
+	{
+		"id" : 2,
+		"name" : "Dwayne",
+		"DepartmentID" : "Sales",
+		"DepartmentIDNum" : "1",
+		"RegistrationDate" : "2015-12-17"
+	},
+	{
+		"id" : 3,
+		"name" : "Felix",
+		"DepartmentID" : "HR",
+		"DepartmentIDNum" : "3",
+		"RegistrationDate" : "2015-12-16"
+	},
+	{
+		"id" : 4,
+		"name" : "Tom",
+		"DepartmentID" : "HR",
+		"DepartmentIDNum" : "3",
+		"RegistrationDate" : "2013-12-16"
+	},
+	{
+		"id" : 5,
+		"name" : "John",
+		"DepartmentID" : "Operations",
+		"DepartmentIDNum" : "2",
+		"RegistrationDate" : "2014-12-17"
+	},
+	{
+		"id" : 6,
+		"name" : "Terry",
+		"DepartmentID" : "Operations",
+		"DepartmentIDNum" : "2",
+		"RegistrationDate" : "2010-12-17"
+	}
+]

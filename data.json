@@ -1,0 +1,44 @@
+[
+	{
+		"id" : 1,
+		"name" : "Brandon",
+		"DepartmentID" : "1",
+		"RegistrationDate" : "2015-12-17"
+	},
+	{
+		"id" : 2,
+		"name" : "Dwayne",
+		"DepartmentID" : "1",
+		"RegistrationDate" : "2015-12-17"
+	},
+	{
+		"id" : 3,
+		"name" : "Felix",
+		"DepartmentID" : "3",
+		"RegistrationDate" : "2015-12-16"
+	},
+	{
+		"id" : 4,
+		"name" : "Tom",
+		"DepartmentID" : "3",
+		"RegistrationDate" : "2013-12-16"
+	},
+	{
+		"id" : 5,
+		"name" : "John",
+		"DepartmentID" : "2",
+		"RegistrationDate" : "2014-12-17"
+	},
+	{
+		"id" : 6,
+		"name" : "Terry",
+		"DepartmentID" : "2",
+		"RegistrationDate" : "2010-12-17"
+	},
+	{
+		"id" : 7,
+		"name" : "Maxwell",
+		"DepartmentID" : "4",
+		"RegistrationDate" : "2010-12-17"
+	}
+]
